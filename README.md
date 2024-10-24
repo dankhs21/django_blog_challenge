@@ -8,11 +8,7 @@ Challenge Objectives:
 
     1. Code Documentation
 
-        Add detailed docstrings to all classes and functions
-        Document complex logic with inline comments
-        Explain Django-specific features and patterns used
-        Add type hints where appropriate
-        Document template blocks and their purposes
+        Add detailed docstrings to all classes and functions explaining what they do and why they are needed.
 
     2. Add Comments to the Blog Project
 
